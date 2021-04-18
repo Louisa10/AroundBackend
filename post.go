@@ -8,3 +8,5 @@ package main
      Type    string `json:"type"`
  } 
 
+// type represents whether it is picture or video
+
